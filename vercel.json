@@ -1,0 +1,2 @@
+{"framework":null,"buildCommand":"node build.mjs","outputDirectory":"dist","functions":{"api/policies.py":{"includeFiles":"policy/**","maxDuration":60}}}
+

@@ -1,0 +1,14 @@
+[
+  {
+    "provider": "central",
+    "originalId": "WLF00003269",
+    "policyId": "central:WLF00003269:19631",
+    "name": "2026년 청년 전세임대 1순위 입주자 수시모집",
+    "regions": [],
+    "catalogueEvidence": ["전세임대"],
+    "coverageUrl": "https://m.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcDetailView.do?pblancId=19631",
+    "coverageEvidence": ["서울특별시", "2026년 청년 전세임대 1순위 입주자 수시모집"],
+    "reason": "공급기관의 수정 공고와 세부 자격 대조 필요",
+    "rules": []
+  }
+]
